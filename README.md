@@ -96,8 +96,9 @@ Your Reward = (Your Score ÷ Sum of All Scores) × Total Prize Pool
 
 ## 📎 Useful Links
 
-* 🔗 [Lunor Quest Platform](https://lunor.quest)
-* 🔗 [Starter Kit Repository](https://github.com/lunorai/literacyforge-starter-kit)
+* 🔗 [Lunor Quest Platform](https://lunor.quest)\
+* 🔗 [Ocean Protocol website](https://oceanprotocol.com)
+* 🔗 [Lunor Quest Docs](https://lunor-quest.gitbook.io/quest)
 
 
 
