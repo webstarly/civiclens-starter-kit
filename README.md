@@ -1,7 +1,7 @@
 # LiteracyForge Starter Kit
 
 Welcome to the **LiteracyForge Starter Kit** 🎉
-This kit will help you participate in the LiteracyForge challenge on the **Lunor Quest** platform.
+This kit will help you participate in the [LiteracyForge quest](https://app.lunor.quest/challenge/1000038) on the **Lunor Quest** platform.
 
 In this challenge, you will:
 
