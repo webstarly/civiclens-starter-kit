@@ -1,0 +1,11 @@
+1. In which country do you currently live?
+Answer: South Korea
+
+2. Gender – Male / Female / Other
+Answer: Male
+
+3. Age (18–24, 25–34, 35–44, 45–54, 55–64, 65+)
+Answer: 25–34
+
+4. English Level – Beginner, Elementary, Intermediate, Upper-intermediate, Advanced, Native/Bilingual
+Answer: Upper-intermediate
