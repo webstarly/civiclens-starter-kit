@@ -1,11 +1,21 @@
-1. In which country do you currently live?
++--------------------------------------+
+|                                      |
+|      UPDATE THE ANSWERS BELOW        |
+|                                      |
++--------------------------------------+
+
+
+1. Id - What is your Lunor Id? (check how to find your id - https://lunor-quest.gitbook.io/quest/guides/how-to-access-your-lunor-id)
+0xce65712a9b26f8a643a21a4c84b9392589e05d7c
+
+2. In which country do you currently live?
 Answer: South Korea
 
-2. Gender – Male / Female / Other
+3. Gender – Male / Female / Other
 Answer: Male
 
-3. Age (18–24, 25–34, 35–44, 45–54, 55–64, 65+)
+4. Age (18–24, 25–34, 35–44, 45–54, 55–64, 65+)
 Answer: 25–34
 
-4. English Level – Beginner, Elementary, Intermediate, Upper-intermediate, Advanced, Native/Bilingual
+5. English Level – Beginner, Elementary, Intermediate, Upper-intermediate, Advanced, Native/Bilingual
 Answer: Upper-intermediate
