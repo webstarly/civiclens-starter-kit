@@ -29,7 +29,7 @@ Your contributions will directly support the development of **AI-powered literac
    Open the [LiteracyForge quest page](https://app.lunor.quest/challenge/1000038)
 
 3. **Start Annotating**
-   Access Prodi.gy using this link:
+   Access annotation tasks using this link:
 
    ```
    https://annotation.oceanprotocol.com?session=<userId>
