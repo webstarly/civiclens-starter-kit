@@ -47,6 +47,7 @@ Your contributions will directly support the development of **AI-powered literac
    After finishing annotation tasks, fill out the `info.txt` file with the following information:
 
    ```
+   Id: Your Lunor Id
    Country: <your country>
    Gender: Male / Female / Other
    Age: 18–24 / 25–34 / 35–44 / 45–54 / 55–64 / 65+
