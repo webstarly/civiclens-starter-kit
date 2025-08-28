@@ -32,7 +32,7 @@ Your contributions will directly support the development of **AI-powered literac
    Access Prodi.gy using this link:
 
    ```
-   https://prodigy.oceanprotocol.com?session=<userId>
+   https://annotation.oceanprotocol.com?session=<userId>
    ```
 
    *(Check Lunor Quest docs to learn [how to find your `<userId>`](https://lunor-quest.gitbook.io/quest/guides/how-to-access-your-lunor-id))*
